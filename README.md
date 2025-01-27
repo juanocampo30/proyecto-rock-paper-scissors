@@ -1,2 +1,2 @@
 # proyecto-rock-paper-scissors
-Primer proyecto javascript de The Odin Project
+This is the first attempt of creating something usefull in my TOP foundations path. Enjoy!
